@@ -4,10 +4,6 @@
 
 package br.com.matheus.testetecnicojava;
 
-/**
- *
- * @author ma_fe
- */
 public class TesteTecnicoJava3 {
 
     public static void main(String[] args) {

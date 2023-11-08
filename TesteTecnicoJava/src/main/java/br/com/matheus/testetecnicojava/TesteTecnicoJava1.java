@@ -7,10 +7,6 @@ package br.com.matheus.testetecnicojava;
 import br.com.matheus.testetecnicojava.Inputs;
 import java.util.List;
 
-/**
- *
- * @author ma_fe
- */
 public class TesteTecnicoJava1 {
     
     public static void main(String[] args) {
