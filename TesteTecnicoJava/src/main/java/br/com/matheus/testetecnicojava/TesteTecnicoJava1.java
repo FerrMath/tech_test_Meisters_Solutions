@@ -4,7 +4,6 @@
  */
 package br.com.matheus.testetecnicojava;
 
-import br.com.matheus.testetecnicojava.Inputs;
 import java.util.List;
 
 public class TesteTecnicoJava1 {
